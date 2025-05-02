@@ -5,7 +5,9 @@ Particle Engine
 </h1>
 
 <div align="center">
+
 A cross-platform C# 2D particle engine based on [Mercury Particle Engine](https://github.com/Matthew-Davey/mercury-particle-engine)
+
 </div>
 
 ## Usage
